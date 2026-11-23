@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>AM</title>
+  <rect width="64" height="64" rx="14" fill="#fff"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" fill="none" stroke="#111" stroke-opacity="0.12" stroke-width="2"/>
+  <path fill="#111" d="M18.5 16h6.2l9.3 32h-5.8l-1.9-7.2H16.9L15 48H9.2zm6.4 19.6L21.6 22.8 18.3 35.6z"/>
+  <path fill="#111" d="M36 16h5.8l4.7 15.6L51.2 16H57v32h-5.4V26.4L47.9 38h-2.8l-3.7-11.6V48H36z"/>
+</svg>
